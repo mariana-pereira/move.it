@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# move.it
 
-## Getting Started
 
-First, run the development server:
+[![Languages](https://img.shields.io/github/languages/count/mariana-pereira/move.it?color=5965e0&style=flat)](#)
+[![Stars](https://img.shields.io/github/stars/mariana-pereira/move.it?color=5965e0&style=flat)](https://github.com/mariana-pereira/move.it/stargazers)
+[![Forks](https://img.shields.io/github/forks/mariana-pereira/move.it?color=5965e0&style=flat)](https://github.com/mariana-pereira/move.it/network/members)
+[![Contributors](https://img.shields.io/github/contributors/mariana-pereira/move.it?color=5965e0&style=flat)](https://github.com/mariana-pereira/move.it/graphs/contributors)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+> Code developed during [Rocketseat's](https://rocketseat.com.br/) Next Level Week #4 event.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Try it now
+Go to [https://move-it-mu.vercel.app/](https://move-it-mu.vercel.app/) to try it.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Techs
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- [NextJS](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+# Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first.**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```git clone https://github.com/mariana-pereira/move.it.git```
 
-## Deploy on Vercel
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```git clone git@github.com:mariana-pereira/move.it.git```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Run `yarn` to install dependencies.<br />
+
+
+# Getting Started
+
+Run `yarn start` in order to start the application in a development environment.
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+# Show your support
+
+Give a ⭐️ if this project helped you!
+
+Made with love by [Mariana Pereira](https://github.com/mariana-pereira) :heart:
